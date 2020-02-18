@@ -1,0 +1,15 @@
+Answers to page 157 questions:
+
+57) created it
+58) The StringLog ADT allows us to store our quesitons and then answer them.
+59)I would create a LLStringNode class to create the reference based nodes,
+	instead of an array.
+60)
+    a)Our answers would become our questions and vice versa.
+    b)Switching the first two statements would cause the correct[] to be false,
+      thus giving us no questions[] numbers to work with.
+    c)The questions answered correctly would have to equal the number of questions and 
+      the remaining questions woul have to be less than zero.  This contradicts eachother.
+61)If the preconditions are not met then the methods cannot function properly
+62)you could insert isOver() into a do-while
+63)submitted in exercise
